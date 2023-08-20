@@ -1,0 +1,94 @@
+/*topo*/
+body{
+    background-color: aqua;
+}
+
+/*IMAGENS*/
+.f2{
+    width: 25%;
+    height: 25%;
+}
+
+.f01{
+    width: 30%;
+    height: 30%;
+}
+.f07{
+    width: 25%;
+    height: 25%;
+}
+.f05{
+    width: 25%;
+    height: 25%;
+}
+.f08{
+    width: 25%;
+    height: 25%;
+}
+.f09{
+    width: 25%;
+    height: 25%;
+}
+
+/*text*/
+.topp{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    border: solid 5px black;
+}
+
+footer{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    color: blueviolet;
+}
+
+h1{
+    text-align:left;
+}
+
+.topo{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+}
+
+.top2{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    border: solid 5px black;
+}
+.carreira{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    border: solid 5px black;
+}
+.univac{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    border: solid 5px black;
+}
+.cobol{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    border: solid 5px black;
+}
+.padrao{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    border: solid 5px black;
+}
+.aposentadoria {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    border: solid 5px black;
+
+}
